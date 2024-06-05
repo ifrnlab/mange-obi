@@ -9,8 +9,8 @@ Seja bem-vindo(a) à página de pré-inscrição da OBI (Olimpíada Brasileira d
 Para fazer isso:
   
 1. Acesse o [Google Sala de Aula](https://suap.ifrn.edu.br/ldap_backend/redirecionar_google_classroom);
-2. Preencha o [formulário de pré-inscrição](https://forms.gle/w3gL7tmKeRFi6hmh7);
-3. E inscreva-se na turma do Google Sala de Aula com o código *jvdletw*.
+2. Preencha, até o dia 07 de junho de 2024, às 16:00, o [formulário de pré-inscrição](https://forms.gle/UMaTBQhNikDXpd87A);
+3. E inscreva-se na turma do Google Sala de Aula com o código *vm7fd7b*.
 
 ## O que é?
 
@@ -18,10 +18,7 @@ A OBI é uma competição de programação voltada para estudantes do ensino mé
 
 ## Quando e onde?
 
-A fase local da OBI será realizada no dia 1º de junho de 2023, em dois horários:
-
-1. Das 10:00 às 12:00, no laboratório de redes de computadores;
-2. Das 13:00 ás 15:00, no laboratório de redes de computadores.
+A fase local da OBI será realizada no dia 14 de junho de 2024, das 14:00 ás 16:00, no laboratório de redes de computadores do [IFRN campus Parnamirim](https://portal.ifrn.edu.br/campus/parnamirim/).
 
  A OBI é composta de 3 fases: local, estadual e nacional. Para maiores informações, visite: <https://olimpiada.ic.unicamp.br/calendario/datas_importantes>.
 

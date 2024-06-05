@@ -34,6 +34,8 @@ extensions = [
         'myst_parser',
 ]
 
+exclude_patterns = ['**.venv', 'README.md']
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
